@@ -1,0 +1,13 @@
+.cupcake {
+    width: 300px;
+    border: 25px solid gray;
+    padding: 25px;
+    margin: 25px;
+}
+
+.orders {
+    width: 300px;
+    border: 25px solid pink;
+    padding: 25px;
+    margin: 25px;
+}
